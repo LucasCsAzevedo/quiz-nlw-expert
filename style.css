@@ -21,7 +21,7 @@ body {
 main {
   padding: 20px;
   max-width: 640px;
-  margin: 0 /*Cima e baixo*/  auto /*Direita e esquerda*/; /*Se tiver os 4 valores, será considerado sentido horário na sequência, da esquerda pra direita, cima, direita, baixo e esquerda*/
+  margin: 0 /*Cima e baixo*/  auto /*Direita e esquerda*/ 64px; /*Se tiver os 4 valores, será considerado sentido horário na sequência, da esquerda pra direita, cima, direita, baixo e esquerda*/
 }
 
 header {
